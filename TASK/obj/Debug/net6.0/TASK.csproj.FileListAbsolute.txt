@@ -1,0 +1,15 @@
+C:\Users\Георгий\Videos\Георгий\C#_repit\Control_Work\TASK\bin\Debug\net6.0\TASK.exe
+C:\Users\Георгий\Videos\Георгий\C#_repit\Control_Work\TASK\bin\Debug\net6.0\TASK.deps.json
+C:\Users\Георгий\Videos\Георгий\C#_repit\Control_Work\TASK\bin\Debug\net6.0\TASK.runtimeconfig.json
+C:\Users\Георгий\Videos\Георгий\C#_repit\Control_Work\TASK\bin\Debug\net6.0\TASK.dll
+C:\Users\Георгий\Videos\Георгий\C#_repit\Control_Work\TASK\bin\Debug\net6.0\TASK.pdb
+C:\Users\Георгий\Videos\Георгий\C#_repit\Control_Work\TASK\obj\Debug\net6.0\TASK.csproj.AssemblyReference.cache
+C:\Users\Георгий\Videos\Георгий\C#_repit\Control_Work\TASK\obj\Debug\net6.0\TASK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Георгий\Videos\Георгий\C#_repit\Control_Work\TASK\obj\Debug\net6.0\TASK.AssemblyInfoInputs.cache
+C:\Users\Георгий\Videos\Георгий\C#_repit\Control_Work\TASK\obj\Debug\net6.0\TASK.AssemblyInfo.cs
+C:\Users\Георгий\Videos\Георгий\C#_repit\Control_Work\TASK\obj\Debug\net6.0\TASK.csproj.CoreCompileInputs.cache
+C:\Users\Георгий\Videos\Георгий\C#_repit\Control_Work\TASK\obj\Debug\net6.0\TASK.dll
+C:\Users\Георгий\Videos\Георгий\C#_repit\Control_Work\TASK\obj\Debug\net6.0\refint\TASK.dll
+C:\Users\Георгий\Videos\Георгий\C#_repit\Control_Work\TASK\obj\Debug\net6.0\TASK.pdb
+C:\Users\Георгий\Videos\Георгий\C#_repit\Control_Work\TASK\obj\Debug\net6.0\TASK.genruntimeconfig.cache
+C:\Users\Георгий\Videos\Георгий\C#_repit\Control_Work\TASK\obj\Debug\net6.0\ref\TASK.dll
